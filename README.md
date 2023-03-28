@@ -15,10 +15,16 @@ This repo is where our various telescope-related projects will be staged, as wel
 | | | | |
 
 # Equipment
-- ## *Telescopes*
+- ## *Telescope*
   - Meade LX200-ACF
+- ## Cameras
+  - ZWO ASI290MM
+  - Apogee Alta F8300
+- ## Filter Wheel
+  - ZWO EFW 7x36mm
   
 # Change Log 
 | Date | Name | Revision | Notes |
 |---|---|---|---|
 | 2023-02-08 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.01 | initial commit |
+| 2023-03-28 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.02 | updated telescope information |
