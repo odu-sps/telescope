@@ -34,7 +34,8 @@ This repo is where our various telescope-related projects will be staged, as wel
 - ## *Main Hub*
   - N.I.N.A (Nighttime Imaging "N" Astronomy)
 - ## Telescope Driver
-  - ASCOM-Celestron driver(outdated) (https://www.cloudynights.com/topic/814082-celestron-scope-driver-download-for-ascom/) 
+  - ASCOM-Celestron driver(outdated, looking for alternatives to ASCOM possbily) (https://www.cloudynights.com/topic/814082-celestron-scope-driver-download-for-ascom/) 
+  - We use Stellarium in conjunction with N.I.N.A to operate the Sky Atlas/Framing Assistant function to target objects in the sky. This is a built-in feature in N.I.N.A.
 - ## Focuser Driver
   - ASCOM Device Hub Driver
 - ## Camera Driver
@@ -42,8 +43,7 @@ This repo is where our various telescope-related projects will be staged, as wel
 - ## Filter Wheel
   - N.I.N.A
 - ## Guiding
-  - PHD2 (Incompatible with Mount: Pulse Guide issues)
-- We use Stellarium in conjunction with N.I.N.A to operate the Sky Atlas/Framing Assistant function to target objects in the sky. This is a built-in feature in N.I.N.A.
+  - PHD2(Incompatible with Mount: Pulse Guide issues), EQASCOM(Still being implemented)
 
 # Change Log 
 | Date | Name | Revision | Notes |
@@ -51,3 +51,4 @@ This repo is where our various telescope-related projects will be staged, as wel
 | 2023-02-08 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.01 | initial commit |
 | 2023-03-28 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.02 | updated telescope information |
 | 2023-05-24 | [Wyattoille](https://github.com/Wyattoille) | 0.03 | updated telescope information, added new items under Current Projects, added Software section |
+| 2023-07-27 | [Wyattoille](https://github.com/Wyattoille) | 0.04 | Edited software section to account for implementation of EQASCOM into our setup |
