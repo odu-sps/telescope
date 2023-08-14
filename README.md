@@ -6,8 +6,8 @@ This repo is where our various telescope-related projects will be staged, as wel
 - Testing equipment acquired from SPS National grant award
 - Developing telescope data infrastructure
 - Setting up the Meade scope
-- squashing autoguide problems with Celestron scope
 - Putting the Meade scope on the roof of OCNPS with a Dome
+- attaining a diffraction lens for the scope, for the purpose of senior thesis research
 
 # Planned Observations
 - First light with new equipment
@@ -34,7 +34,7 @@ This repo is where our various telescope-related projects will be staged, as wel
 - ## *Main Hub*
   - N.I.N.A (Nighttime Imaging "N" Astronomy)
 - ## Telescope Driver
-  - ASCOM-Celestron driver(outdated, looking for alternatives to ASCOM possbily) (https://www.cloudynights.com/topic/814082-celestron-scope-driver-download-for-ascom/) 
+  - ASCOM-Celestron driver(https://www.cloudynights.com/topic/814082-celestron-scope-driver-download-for-ascom/) 
   - We use Stellarium in conjunction with N.I.N.A to operate the Sky Atlas/Framing Assistant function to target objects in the sky. This is a built-in feature in N.I.N.A.
 - ## Focuser Driver
   - ASCOM Device Hub Driver
@@ -43,7 +43,7 @@ This repo is where our various telescope-related projects will be staged, as wel
 - ## Filter Wheel
   - N.I.N.A
 - ## Guiding
-  - PHD2(Incompatible with Mount: Pulse Guide issues), EQASCOM(Still being implemented)
+  - PHD2
 
 # Change Log 
 | Date | Name | Revision | Notes |
@@ -52,3 +52,4 @@ This repo is where our various telescope-related projects will be staged, as wel
 | 2023-03-28 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.02 | updated telescope information |
 | 2023-05-24 | [Wyattoille](https://github.com/Wyattoille) | 0.03 | updated telescope information, added new items under Current Projects, added Software section |
 | 2023-07-27 | [Wyattoille](https://github.com/Wyattoille) | 0.04 | Edited software section to account for implementation of EQASCOM into our setup |
+| 2023-08-14 | [Wyattoille](https://github.com/Wyattoille) | 0.05 | Removed EQASCOM from software section, updated current projects |
