@@ -15,7 +15,7 @@ This repo is where our various telescope-related projects will be staged, as wel
 # Outreach & Events
 | Date | Title | Description | Location |
 |---|---|---|---|
-| | | | |
+| 2023-09-15 | Trial Run | Practice observation workflow with NINA | Old Dominion University |
 
 # Equipment
 - ## *Telescope*
@@ -32,16 +32,16 @@ This repo is where our various telescope-related projects will be staged, as wel
 
 # Software
 - ## *Main Hub*
-  - N.I.N.A (Nighttime Imaging "N" Astronomy)
+  - NINA (Nighttime Imaging "N" Astronomy)
 - ## Telescope Driver
   - ASCOM-Celestron driver(https://www.cloudynights.com/topic/814082-celestron-scope-driver-download-for-ascom/) 
-  - We use Stellarium in conjunction with N.I.N.A to operate the Sky Atlas/Framing Assistant function to target objects in the sky. This is a built-in feature in N.I.N.A.
+  - We use Stellarium in conjunction with NINA to operate the Sky Atlas/Framing Assistant function to target objects in the sky. This is a built-in feature in NINA.
 - ## Focuser Driver
   - ASCOM Device Hub Driver
 - ## Camera Driver
-  - N.I.N.A
+  - NINA
 - ## Filter Wheel
-  - N.I.N.A
+  - NINA
 - ## Guiding
   - PHD2
 
