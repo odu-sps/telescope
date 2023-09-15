@@ -53,3 +53,4 @@ This repo is where our various telescope-related projects will be staged, as wel
 | 2023-05-24 | [Wyattoille](https://github.com/Wyattoille) | 0.03 | updated telescope information, added new items under Current Projects, added Software section |
 | 2023-07-27 | [Wyattoille](https://github.com/Wyattoille) | 0.04 | Edited software section to account for implementation of EQASCOM into our setup |
 | 2023-08-14 | [Wyattoille](https://github.com/Wyattoille) | 0.05 | Removed EQASCOM from software section, updated current projects |
+| 2023-09-15 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.06 | Updated events list and renamed N.I.N.A instances to NINA (for searchability) |
