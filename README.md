@@ -24,7 +24,7 @@ This repo is where our various telescope-related projects will be staged, as wel
 - ## Cameras
   - Apogee Alta F8300
 - ## Filter Wheel
-  - ZWO EFW 7x36mm
+  - ZWO EFW 7x36mm (UBVRI filters)
 - ## Off-Axis Guider
   - ZWO ASI290MM
 - ## Focuser
@@ -44,6 +44,8 @@ This repo is where our various telescope-related projects will be staged, as wel
   - NINA
 - ## Guiding
   - PHD2
+- ## Plate Solving
+  - ASTAP
 
 # Change Log 
 | Date | Name | Revision | Notes |
@@ -54,3 +56,4 @@ This repo is where our various telescope-related projects will be staged, as wel
 | 2023-07-27 | [Wyattoille](https://github.com/Wyattoille) | 0.04 | Edited software section to account for implementation of EQASCOM into our setup |
 | 2023-08-14 | [Wyattoille](https://github.com/Wyattoille) | 0.05 | Removed EQASCOM from software section, updated current projects |
 | 2023-09-15 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.06 | Updated events list and renamed N.I.N.A instances to NINA (for searchability) |
+| 2023-09-18 | [Wyattoille](https://github.com/Wyattoille) | 0.07 | Added "Plate Solving" under software, specified filter types under "Filter Wheel" in hardware |
