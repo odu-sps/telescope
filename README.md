@@ -8,6 +8,7 @@ This repo is where our various telescope-related projects will be staged, as wel
 - Setting up the Meade scope
 - Putting the Meade scope on the roof of OCNPS with a Dome
 - attaining a diffraction lens for the scope, for the purpose of senior thesis research
+- Proposition a starter observatory where the old golf course used to be
 
 # Planned Observations
 - First light with new equipment
@@ -19,16 +20,30 @@ This repo is where our various telescope-related projects will be staged, as wel
 
 # Equipment
 - ## *Telescope*
-  - Meade LX200-ACF
-  - CPC 1100 XLT
+  - Meade 16" LX200-ACF (forked)
+  - Celestron C11 on CPC 1100 XLT
+  - Unistellar Equinox 2
+  - Meade ETX-LS 6"
+  - Explore FirstLight 152mm Doublet Refractor (w/eq mount but operability is unknown)
 - ## Cameras
   - Apogee Alta F8300
+  - Starlight Xpress Trius PRO-694 CCD
+  - ZWO_ASI290MM
 - ## Filter Wheel
   - ZWO EFW 7x36mm (UBVRI filters)
+- ## Filters
+  - U - Ultraviolet
+  - B - Blue
+  - V - Visible
+  - R - Red
+  - I - Infra-red
 - ## Off-Axis Guider
   - ZWO ASI290MM
 - ## Focuser
   - Celestron Focuser
+- ## Accessories
+  - 5x Celestron power pack 17
+  - Portable power supply (300 Wh)
 
 # Software
 - ## *Main Hub*
